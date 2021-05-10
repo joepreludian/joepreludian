@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![joepreludian's github stats](https://github-readme-stats.vercel.app/api?username=joepreludian&count_private=true&show_icons=true&custom_title=MyStates&line_height=20)]
-
-(https://github.com/joepreludian)[![joepreludian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joepreludian&layout=compact&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![joepreludian's github stats](https://github-readme-stats.vercel.app/api?username=joepreludian&count_private=true&show_icons=true&custom_title=MyStates&line_height=20)](https://github.com/joepreludian)[![joepreludian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joepreludian&layout=compact&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
