@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a Compute Engineer. Welcome to my humble Github account! You going to find some variety of good stuff here. Feel free to create Issues and contribute on my projects.
+
+Thanks!
 
 <!--
 **joepreludian/joepreludian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![joepreludian's github stats](https://github-readme-stats.vercel.app/api?username=joepreludian&count_private=true&show_icons=true&custom_title=MyStates&line_height=20)]
+
+(https://github.com/joepreludian)[![joepreludian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joepreludian&layout=compact&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
