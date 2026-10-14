@@ -2,4 +2,4 @@
 
 https://blog.jon.dev.br
 
-Keeping programming fun.
+I'm trying to keep programming being fun.
